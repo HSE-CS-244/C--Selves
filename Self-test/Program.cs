@@ -14,6 +14,8 @@ public class Program
         // Projectwise Culture Locale
         CultureInfo.CurrentCulture = new CultureInfo("ru-RU");
 
+        // This line was added in pull request
+
         Console.WriteLine("Hello from Self-test");
     }
 }
